@@ -1,5 +1,7 @@
 ## yelp_data_project
 
+Perform analysis on open source yelp data
+
 download gigabyte size files [here](https://drive.google.com/drive/folders/1AUt-vC1rkNKDnFuDkywNtTugCzAtwWmw)and load them to your server
 
 -- Q1: What are the top 20 cities (with state information) with the most businesses on yelp?-- Expected columns: state, city, business_count
