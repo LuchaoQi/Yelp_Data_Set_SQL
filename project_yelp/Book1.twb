@@ -473,6 +473,14 @@
           </strip>
         </edge>
       </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0yugqeu1opo2ci1a6pa2a08w187i].[none:business_id (yelp_business_hours.csv):nk]</field>
+            <field>[federated.0yugqeu1opo2ci1a6pa2a08w187i].[none:friday:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
       <simple-id uuid='{535A661F-9329-452B-B2B3-03A698FDB6BD}' />
     </window>
   </windows>
