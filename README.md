@@ -2,7 +2,7 @@
 
 Perform analysis on open source yelp data
 
-Download .json format yelp dataset here https://www.yelp.com/dataset/documentation/main or download gigabyte size csv files [here](https://drive.google.com/drive/folders/1AUt-vC1rkNKDnFuDkywNtTugCzAtwWmw) and load them to your server
+Download .json format yelp dataset here https://www.yelp.com/dataset/documentation/main or download gigabyte size csv files from [drive](https://drive.google.com/drive/folders/1AUt-vC1rkNKDnFuDkywNtTugCzAtwWmw) or from [kaggle]( https://www.kaggle.com/mohit473/yelp-data-set ) and load them to your server
 
 -- Q1: What are the top 20 cities (with state information) with the most businesses on yelp?-- Expected columns: state, city, business_count
 
