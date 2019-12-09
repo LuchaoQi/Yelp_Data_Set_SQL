@@ -4,6 +4,12 @@ Perform analysis on open source yelp data
 
 Download .json format yelp dataset here https://www.yelp.com/dataset/documentation/main or download gigabyte size csv files from [drive](https://drive.google.com/drive/folders/1AUt-vC1rkNKDnFuDkywNtTugCzAtwWmw) or from [kaggle]( https://www.kaggle.com/mohit473/yelp-data-set ) and load them to your server
 
+OR
+
+You can web scrape customized content using `yelp_search.py`
+
+Some results are shown in Tableau as `Book1.twb`
+
 -- Q1: What are the top 20 cities (with state information) with the most businesses on yelp?-- Expected columns: state, city, business_count
 
 -- Q2: What are the average stars for top 10 most reviewed restaurants in Toronto? -- Expected columns: business_id, review_count, avg_star
